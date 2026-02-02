@@ -48,7 +48,7 @@ If you prefer to run the script via Python or build it yourself.
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/kapoios/My-Fairytale-Patcher.git](https://github.com/kapoios/My-Fairytale-Patcher.git)
+    git clone https://github.com/kapoios/My-Fairytale-Patcher.git
     cd My-Fairytale-Patcher
     ```
 2.   Download the latest version of **[Steamless](https://github.com/atom0s/Steamless/releases/)** and place the `Steamless` folder inside the project root if you want auto-unpacking to work.
@@ -57,6 +57,7 @@ If you prefer to run the script via Python or build it yourself.
 ```bash
 
 python My-Fairytale-Patcher.py
+
 
 
 
