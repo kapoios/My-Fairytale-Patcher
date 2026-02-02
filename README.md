@@ -23,7 +23,7 @@ If you just want to fix your game, download the latest release.
 ### 1. Setup
 1.  Download the latest `.zip` from the **[Releases](../../releases)** page.
 2.  Extract the folder to your desktop (or anywhere).
-3.  **Crucial:** Ensure the `Steamless` folder is present inside the extracted folder. The tool needs this to unlock the game file.
+3.  **Crucial:** Ensure the `Steamless` folder is present inside the extracted folder. The tool needs this to unlock the game file. You can always download the latest verison from **[Steamless releases](https://github.com/atom0s/Steamless/releases/)**
 
 ### 2. Patching
 1.  Run **`MyFairytalePatcher.exe`**.
@@ -57,5 +57,6 @@ If you prefer to run the script via Python or build it yourself.
 ```bash
 
 python My-Fairytale-Patcher.py
+
 
 
