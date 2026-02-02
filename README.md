@@ -8,7 +8,7 @@ This tool functions as a wrapper that can automatically unpack (using **Steamles
 
 ## Features
 * **Supports:** 1920x1080, 2560x1440, and 3840x2160 (4K).
-* **Auto-Unpacker:** Integrates with **Steamless**.
+* **Auto-Unpacker:** Integrates with **[Steamless](https://github.com/atom0s/Steamless)**.
 * **Smart Patching:** Updates both the Window creation logic AND the internal 3D Renderer to fix aspect ratio stretching.
 * **Safety:** Options to backup the original file (`.bak`) and clean up temporary unpacked files.
 
@@ -49,8 +49,9 @@ If you prefer to run the script via Python or build it yourself.
     git clone [https://github.com/YourUsername/My-Fairytale-Patcher.git](https://github.com/YourUsername/My-Fairytale-Patcher.git)
     cd My-Fairytale-Patcher
     ```
-2.   Download the latest version of **Steamless** and place the `Steamless` folder inside the project root if you want auto-unpacking to work.
+2.   Download the latest version of **[Steamless](https://github.com/atom0s/Steamless/releases/)** and place the `Steamless` folder inside the project root if you want auto-unpacking to work.
 
 ### Running the Script
 ```bash
+
 python My-Fairytale-Patcher.py
