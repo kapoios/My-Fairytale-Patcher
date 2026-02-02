@@ -3,6 +3,7 @@
 A simple, automated tool to patch *Disney Princess: My Fairytale Adventure* to run at modern resolutions (**1080p, 1440p, 4K**) without stretching or visual artifacts.
 
 This tool functions as a wrapper that can automatically unpack (using **Steamless**) and patch the game's internal code to render strictly at your chosen resolution.
+It has only been tested with the Steam version of the game.
 
 ![Patcher Screenshot](screenshot.png) 
 
@@ -55,3 +56,4 @@ If you prefer to run the script via Python or build it yourself.
 ```bash
 
 python My-Fairytale-Patcher.py
+
